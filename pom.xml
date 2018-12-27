@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>tomtom-vector</artifactId>
-    <version>4.44.7</version>
+    <version>4.44.8-SNAPSHOT</version>
     <name>TomTom Maps SDK</name>
     <description>TomTom Maps SDK for Web with vector maps</description>
     <url>https://developer.tomtom.com/maps-sdk-web/downloads</url>
@@ -42,7 +42,7 @@
         <url>http://github.com/webjars/tomtom-vector</url>
         <connection>scm:git:https://github.com/webjars/tomtom-vector.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/tomtom-vector.git</developerConnection>
-        <tag>tomtom-vector-4.44.7</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
