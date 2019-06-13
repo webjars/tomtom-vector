@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>tomtom-vector</artifactId>
-    <version>4.44.8-SNAPSHOT</version>
+    <version>5.20.4-SNAPSHOT</version>
     <name>TomTom Maps SDK</name>
     <description>TomTom Maps SDK for Web with vector maps</description>
     <url>https://developer.tomtom.com/maps-sdk-web/downloads</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.url>https://api.tomtom.com/maps-sdk-js/${version.unsnapshot}/jssdk-${version.unsnapshot}-distribution-vector.zip</upstream.url>
+        <upstream.url>https://api.tomtom.com/maps-sdk-for-web/5.x/${version.unsnapshot}/jssdk-${version.unsnapshot}-distribution-maps.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
     </properties>
 
